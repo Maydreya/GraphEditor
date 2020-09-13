@@ -1,0 +1,45 @@
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\bin\x86\Debug\VecEditor.exe.config
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\bin\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\bin\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.csprojResolveAssemblyReference.cache
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.Form1.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.Properties.Resources.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.csproj.GenerateResource.Cache
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\2 лаба\VecEditor3\VecEditor\VecEditor\obj\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.exe.config
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.csprojResolveAssemblyReference.cache
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.Form1.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.Properties.Resources.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.csproj.GenerateResource.Cache
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.pdb
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.csprojResolveAssemblyReference.cache
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.Form1.resources
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.Properties.Resources.resources
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.csproj.GenerateResource.Cache
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.exe
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\obj\x86\Debug\VecEditor.pdb
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.exe.config
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.exe
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor4\VecEditor\bin\x86\Debug\VecEditor.pdb
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.exe.config
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.exe
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.pdb
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.csprojResolveAssemblyReference.cache
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.Form1.resources
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.Properties.Resources.resources
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.csproj.GenerateResource.Cache
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.exe
+D:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\3 лаба\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.exe.config
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.Form1.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.Properties.Resources.resources
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.csproj.GenerateResource.Cache
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.exe
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\bin\x86\Debug\VecEditor.pdb
+d:\ПАПКА ТРУ КОДЕРОВ\C#\Redaktor\Курсач\VecEditor5\VecEditor\obj\x86\Debug\VecEditor.csprojResolveAssemblyReference.cache
